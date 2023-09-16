@@ -1,0 +1,79 @@
+{
+  "simMonL": "Bs",
+  "impArt": {
+    "desc": [
+      "Exonerado",
+      "IVA",
+      "Reducido",
+      "Lujo",
+      "Percibido"
+    ],
+    "abrev": [
+      "(E)",
+      "(G)",
+      "(R)",
+      "(L)",
+      "(P)"
+    ],
+    "valor": [
+      0,
+      1600,
+      800,
+      3100,
+      1600
+    ],
+    "impMontoPtr": [
+      "EXENTO (E)",
+      "BI G (16.00%)",
+      "BI R (8.00%)",
+      "BI S (31.00%)",
+      "BI P (16.00%)"
+    ],
+    "impMontoImp": [
+      "",
+      "IVA G (16.00%)",
+      "IVA R (8.00%)",
+      "IVA S (31.00%)",
+      "IVA P (16.00%)"
+    ]
+  },
+  "formPago": {
+    "tituloFormPag": "FORMA DE PAGO",
+    "desc": [
+      "EFECTIVO",
+      "T. DEBITO",
+      "T. CREDITO",
+      "CHEQUE",
+      "PETRO",
+      "DOLARES",
+      "BITCOIN"
+    ],
+    "impG": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      300,
+      300
+    ],
+    "impMontoPtr": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "BI IGTF (3.00%)",
+      "BI IGTF (3.00%)"
+    ],
+    "impMontoImp": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "IGTF (3.00%)",
+      "IGTF (3.00%)"
+    ]
+  }
+}
